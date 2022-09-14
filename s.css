@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #70c2cb;
+    
+}
+.fondo{
+    width: 1121px;
+    padding: 15px;
+    background-color: #ffff;
+    border: 7px solid #ccc;
+    border-radius: 8px;
+    margin-top: 79px
+}
+   
